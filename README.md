@@ -16,8 +16,8 @@ Quarantine your personal data with Quarantin. A native android application for s
 - Native Android Development
 - VS Code
 
-##Contributors: 
-Team Name: Bro Let’s Code 
+## Contributors: 
+# Team Name: Bro Let’s Code 
 - [Preeti Kumari](https://github.com/Preeti811)
 - [Prachi Verma](https://github.com/Prachi-121)
 - [Prerna Kumari](https://github.com/prernak456)
