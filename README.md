@@ -16,6 +16,13 @@ Quarantine your personal data with Quarantin. A native android application for s
 - Native Android Development
 - VS Code
 
+- ## Getting Started
+To run this project in your system, follow these steps -
+- Download and install Android Studio.
+- Clone the repository.
+- Frontend: Build the app and deploy to your device/virtual device.
+- Login with your email id and password to get started.
+
 ## Contributors: 
 - [Preeti Kumari](https://github.com/Preeti811)
 - [Prachi Verma](https://github.com/Prachi-121)
