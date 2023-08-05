@@ -1,14 +1,20 @@
 # Hack36 Template Readme
 
 ## Introduction: 
-Quarantine your personal data with Quarantin. Java based vault application, capable of storing and safeguarding your personal data. Lock your photos, videos and PDFs using Quarantin along with data backup to your cloud account.
-Inbuilt secret browser, and supports feature like screenshot protection and password recovery.
+Quarantine your personal data with Quarantin. A native android application for storing your personal data.
+
+## Basic features of the application
+- Java based vault application, capable of storing and safeguarding your personal data.
+- Lock your photos, videos and PDFs using Quarantin along with data backup to your cloud account.
+- Supports feature like screenshot protection and password recovery.
+- Inbuilt secret browser.
 
 ## Technology Stack:
 - Java
 - Android Studio
 - Firebase
 - Native Android Development
+- VS Code
 
 ##Contributors: 
 Team Name: Bro Let’s Code 
